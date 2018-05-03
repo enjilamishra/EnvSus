@@ -1,0 +1,23 @@
+{
+  "name": "env",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {},
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandraburress/envsusbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexandraburress/envsusbot/issues"
+  },
+  "homepage": "https://github.com/alexandraburress/envsusbot#readme"
+}
